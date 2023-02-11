@@ -10,6 +10,7 @@
     <h2>About me</h2>
     <p>Hello! I'm Joseph. I'm a developer with an interest in developing web browsers and web applications. My main <a href="https://www.youtube.com/watch?v=NOPIobI_0B8">goal</a> right now is learning more about how web browsers work and how we interact with them.</p>
     <br>
+    <h3>Current Projects</h3>
     <p>- I'm learning Rust and Computer Architecture.</p>
     <p>- I'm working on a JSON (Maybe even BSON!?) parser using Rust and making full-stack applications using TypeScript.</p>
     <br>
