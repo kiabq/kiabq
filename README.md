@@ -12,7 +12,7 @@
     <br>
     <h3>Current Projects</h3>
     <p>- I'm learning Rust and Computer Architecture.</p>
-    <p>- I'm working on a JSON (Maybe even BSON!?) parser using Rust and making full-stack applications using TypeScript.</p>
+    <p>- I'm working on a simple JSON parser using Rust and making full-stack applications using TypeScript.</p>
     <br>
     <p>My site: <a href="https://cnwy.dev">cnwy.dev</a></p>
     <p>Contact me: <a href="https://www.linkedin.com/in/joseph-e-conway/">LinkedIn</a></p>
