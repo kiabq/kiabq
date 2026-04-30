@@ -7,7 +7,7 @@
 <sup>ascii text generator made by: <a href="https://patorjk.com">patorjk</a> :)</sup>
 
 <div>
-    <h2>About me</h2>
+    <!-- <h2>About me</h2>
     <p>Hello! I'm Joseph. I'm a developer currently working on web applications. My main <a href="https://www.youtube.com/watch?v=NOPIobI_0B8">goal</a> right now is learning more about Golang, specifically concurrency, goroutines, and go internals. I'm currently revamping one of my old projects, HyperSlice, to use a Golang backend instead of KoaJS.</p>
     <p>Some of the tools I work with on a day-to-day basis:</p>
     <ul>
@@ -17,7 +17,7 @@
         <li>Python</li>
         <li>CSS</li>
         <li>SQL</li>
-    </ul>
+    </ul> -->
     <p>My site: <a href="https://www.cnwy.dev">cnwy.dev</a></p>
     <p>Contact me: <a href="https://www.linkedin.com/in/joseph-e-conway/">LinkedIn</a></p>     
     <hr> 
